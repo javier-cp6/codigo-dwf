@@ -6,3 +6,5 @@ Primer push:
 Autor del artículo actualizado.
 
 Actualización para GitHub Desktop.
+
+Actualización desde GH web.
